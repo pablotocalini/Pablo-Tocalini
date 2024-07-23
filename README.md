@@ -9,7 +9,7 @@
 
 - I’m currently learning **Bachelor of Information Technology Management (Systems)**
 
-- I'm very grateful to those who have dedicated their time and patience to help me progress in this world especially to @crudobaker
+- I'm very grateful to those who have dedicated their time and patience to help me progress in this world especially to [Leonardo Martín Crudo](https://github.com/crudobaker)
 
 - If you want to reach me **pablotocalini@gmail.com**
 
