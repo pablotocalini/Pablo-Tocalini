@@ -1,4 +1,6 @@
-<img src="https://img.freepik.com/free-vector/desktop-smartphone-app-development_23-2148683810.jpg?t=st=1721768917~exp=1721772517~hmac=dd404e008b3ce380afa9cdd1ba9bfdefb707aad48e0f057e5123135d79dd883e&w=740" alt="MasterHead" height="300">
+<div style="text-align: center;">
+  <img src="https://img.freepik.com/free-vector/desktop-smartphone-app-development_23-2148683810.jpg?t=st=1721768917~exp=1721772517~hmac=dd404e008b3ce380afa9cdd1ba9bfdefb707aad48e0f057e5123135d79dd883e&w=740" alt="MasterHead" style="height: 300px;">
+</div>
 <h1 align="center">Hi, I´m Pablo Tocalini</h1>
 <h3 align="center">A passionate software developer from Argentina</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pablotocalini&label=Profile%20views&color=0e75b6&style=flat" /> </p>
